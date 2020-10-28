@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Tip-calc Demo
 //
-//  Created by Faith Rounds on 10/24/20.
+//  Created by PZR Labs on 10/24/20.
 //
 
 import UIKit
@@ -11,9 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
-
-
 }
 
